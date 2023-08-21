@@ -1,22 +1,16 @@
 # 8-2-Journal-Portfolio-Submission
 # Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
-#Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+
 The summary of the DriverPass project is there is the issue of the driving test, driving examination. Many students have fail the driving  test and the DriverPass project wantsensure that all of them can pass the driving test, and they can prepare for the driving interview. The DriverPass want to system to provide the different practice tests with different options for the students to ensure all the students pass the test before driving. They want the students to have a different package, courses, educations for the driving tests. The DriverPass want to provide and improve a better interactions and communications between the students’ drivers with the examiners. 
 The client is the DriverPass company, the company wants to provide a better access for the students to the virtual classes and virtual examinations, and they want their system to provide the virtual examination for the driving test  with different espects. The DriverPass company wants to get training courses, lessons, packages and tutorials. The DriverPass wants to upgrage and track the interview, process and want to build an effective training for the students’ drivers. The company wants to track and monitor the learning, practice and driving process to ensure the progress is effective. 
 # What did you do particularly well?
+The things I particualarly do well are I have turns all the requirements, objects, functionalities into multiples different use cases.  I also understand and know how to do the include and extend relationship in the diagram. I take notes of the functionality of the Driver Pass system such as user login, registration, payments and transfer it into the use cases. I also list the actors and the who can have the authorities to take part in which functionalities, for examples: the users, the sales, the staffs and the administration can take part in the payments functionalities. The administrator, the staff can get the nontification from the payments and sent the receipt to the customer. This course has taught me how to solve and analyze the system, it helps me to create the classes, activities, system flow.
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I want to try to change and improve my UML diagram. I will make more adjustment and make more research about the classes and objects in order to create a better ULM diagram. The classes will require more deeper thoughts and understandings. The functionalities will be easier to understand and easily to create. But as the system expands and has more details and informations, the classes and the objects will need more research and better understanding. I will use more functionalities, methods to represent the ideas and details in the system and the UML diagram. And I will think more about the object and classes.
 # How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the #user’s needs when designing?
+I interpret the user’s needs and implement them into my system design by I started to draw the draft of the interaction of the users. From the draft of the interaction, I can imagine and figure out the activity diagram, ULM diagram and the sequence diagram, I can understand how each class is used. I interpret the user's needs by carefully think about the users' needs, thinking carefully about the users' needs help me remove the difficulties and the abstract, the probelms that I will have to solve in the system. I also interpret the users' need by reading carefully about the transcript of the company's inverview. The customer's communication can helps I understand the users' needs. After reading the customers' transcript, I write down the customer's requirements. When I have the list of the customers' requirements from the transcripts. I will think about how it will be implemented into the software. If I see the security requirements, I will try to research for the solution. When I implement the requirements into the system. I will start to break all the requirements into smaller pieces. I will do the easy task first, then I go with the complexity task. After that, I put the include and exclude relationship for the system. 
 # How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a 
 # system?
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+
+I approach the designning software by first, I will try to read all the requirements, then I will write down the list. I will try to understand the objects and its relationshop, how those interaction. The final process is I will create the diagram. After that, I will start to code. I will read the requirememts from the customers from of the transcripts, then I will think about the way to implement those into the system. After that, I will do the coding. I will redraw the system and then get the requirements of the system and I will add the new features to the system. I will ountline how the functions are supposed to be. The techniques or strategies I use in the future to analyze and design a system will be the iterative method.
+I will try to use the iterative method. This method is the method that help to test, analyze, refine the process. By using this method, I can capture all the details of the objects, classes. I will use this method in the future. I use this iterative method repeatedly in order to provide more details, information for the project.
